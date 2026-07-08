@@ -1,0 +1,19 @@
+<!-- Ming Designs favicon — the logo's sparkle-arrow "i" (grape #5f2b82 arrow,
+     sun #efc540 burst) on the logo's own white ground. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ming Designs">
+  <rect width="64" height="64" rx="14" fill="#ffffff" />
+  <!-- arrow stem -->
+  <line x1="32" y1="30" x2="32" y2="54" stroke="#5f2b82" stroke-width="5.5" stroke-linecap="round" />
+  <!-- arrowhead -->
+  <path d="M32 13.5 L41.5 31 L32 26.2 L22.5 31 Z" fill="#5f2b82" />
+  <!-- sun burst -->
+  <g stroke="#efc540" stroke-width="4.5" stroke-linecap="round">
+    <line x1="32" y1="3.5" x2="32" y2="10" />
+    <line x1="17" y1="8.5" x2="21.5" y2="13" />
+    <line x1="47" y1="8.5" x2="42.5" y2="13" />
+    <line x1="10" y1="21.5" x2="17" y2="21.5" />
+    <line x1="54" y1="21.5" x2="47" y2="21.5" />
+    <line x1="15" y1="34.5" x2="20" y2="31" />
+    <line x1="49" y1="34.5" x2="44" y2="31" />
+  </g>
+</svg>
